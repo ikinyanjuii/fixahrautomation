@@ -1,0 +1,386 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e7]:
+      - generic [ref=e8]:
+        - link "Logo" [ref=e10] [cursor=pointer]:
+          - /url: ./
+          - img "Logo" [ref=e12] [cursor=pointer]
+        - generic [ref=e13]:
+          - paragraph [ref=e15]:
+            - link "Home" [ref=e16] [cursor=pointer]:
+              - /url: ./
+          - paragraph [ref=e18]:
+            - link "Blog" [ref=e19] [cursor=pointer]:
+              - /url: ./blog
+          - paragraph [ref=e21]:
+            - link "Pricing" [ref=e22] [cursor=pointer]:
+              - /url: ./pricing
+          - generic [ref=e23] [cursor=pointer]:
+            - paragraph [ref=e25] [cursor=pointer]:
+              - link "Contact Us" [ref=e26] [cursor=pointer]:
+                - /url: ./contact
+            - img [ref=e30] [cursor=pointer]
+        - link "Book a Call" [ref=e33] [cursor=pointer]:
+          - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+          - paragraph [ref=e35] [cursor=pointer]: Book a Call
+          - generic [ref=e36] [cursor=pointer]:
+            - img [ref=e39] [cursor=pointer]
+            - img [ref=e44] [cursor=pointer]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - heading "HR and Benefits for Africa’s Frontline Workforce" [level=1] [ref=e51]
+          - paragraph [ref=e54]: Built on our experience managing over 15,000 frontline workers through our staffing platform, Fixa is the first HR solution purpose-built for Africa’s blue-collar workforce.
+        - link "Schedule a Demo" [ref=e55] [cursor=pointer]:
+          - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+          - paragraph [ref=e57] [cursor=pointer]: Schedule a Demo
+      - generic [ref=e64] [cursor=pointer]:
+        - generic:
+          - generic:
+            - paragraph: Watch Video
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - heading "Manage Employees" [level=3] [ref=e73]
+            - paragraph [ref=e76]: Register and validate employee KYCs, generate RSSB numbers, and track attendance for shifts, tasks, and productivity.
+          - link "Schedule a Demo" [ref=e79] [cursor=pointer]:
+            - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+            - paragraph [ref=e81] [cursor=pointer]: Schedule a Demo
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - paragraph [ref=e91]: JN
+              - generic [ref=e92]:
+                - paragraph [ref=e96]: John Nsengimana
+                - generic [ref=e97]:
+                  - paragraph [ref=e100]: "NID: 1234567890"
+                  - paragraph [ref=e104]: Mason
+            - paragraph [ref=e109]: Casual Worker
+            - paragraph [ref=e114]: Full Shift
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - generic [ref=e119]:
+                - generic [ref=e120]:
+                  - img [ref=e124]
+                  - img [ref=e128]
+                  - img [ref=e132]
+                - paragraph [ref=e136]: Output
+              - paragraph [ref=e139]:
+                - text: 2.5kg
+                - generic [ref=e140]: (-0.25)
+                - text: ": 2.25kg"
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - img [ref=e147]
+                  - img [ref=e151]
+                - paragraph [ref=e155]: Earning
+              - paragraph [ref=e158]: RWF 700
+          - generic [ref=e159]:
+            - paragraph [ref=e166]: Record Productivity
+            - img [ref=e169]
+      - generic [ref=e171]:
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e183]:
+              - generic [ref=e184]:
+                - generic [ref=e185]:
+                  - paragraph [ref=e187]: Sylvester
+                  - paragraph [ref=e189]: July Payroll, including Bonus payout
+                - paragraph [ref=e192]: Site Admin
+              - paragraph [ref=e194]: RWF 200,000
+            - paragraph [ref=e197]: Pay Now
+          - img [ref=e200]
+        - generic [ref=e202]:
+          - generic [ref=e203]:
+            - heading "Run Payroll" [level=3] [ref=e206]
+            - paragraph [ref=e209]: Process payroll and make bulk payments to banks, mobile money wallets, and SACCOs.
+          - link "Schedule a Demo" [ref=e212] [cursor=pointer]:
+            - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+            - paragraph [ref=e214] [cursor=pointer]: Schedule a Demo
+      - generic [ref=e215]:
+        - generic [ref=e216]:
+          - generic [ref=e217]:
+            - heading "Empower Employees" [level=3] [ref=e220]
+            - paragraph [ref=e223]: Offer on-demand pay and empower your employees with financial control.
+          - link "Schedule a Demo" [ref=e226] [cursor=pointer]:
+            - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+            - paragraph [ref=e228] [cursor=pointer]: Schedule a Demo
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - generic [ref=e236]:
+                - img [ref=e242]
+                - paragraph [ref=e245]: Earnings
+              - paragraph [ref=e247]: RWF 250,000
+            - img [ref=e250]
+          - generic [ref=e251]:
+            - img [ref=e257]
+            - generic [ref=e258]:
+              - generic [ref=e260]:
+                - paragraph [ref=e262]: EWA Requested
+                - paragraph [ref=e264]: "4"
+              - generic [ref=e266]:
+                - paragraph [ref=e268]: EWA Balance
+                - paragraph [ref=e270]: RWF 120,000
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - heading "The HR platform purpose-built for frontline employees" [level=2] [ref=e279]
+        - paragraph [ref=e281]: "Our platform is designed for universal accessibility: a web app for office users, a mobile app for site managers, and a USSD app for field workers. It supports offline use, biometric integrations, and seamless payments to mobile wallets and bank accounts. Additionally, it allows workers to access their earned wages at any time, with no cost to the employer."
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - heading "Dashboard" [level=4] [ref=e286]
+          - paragraph [ref=e289]: Gain real-time insights into all your employees.
+          - generic [ref=e290]:
+            - generic [ref=e292]:
+              - generic [ref=e294]:
+                - paragraph [ref=e298]: Cleaners
+                - generic [ref=e299]:
+                  - img [ref=e302]
+                  - paragraph [ref=e304]: 25%
+              - img [ref=e307]
+            - generic [ref=e309]:
+              - generic [ref=e311]:
+                - paragraph [ref=e315]: Masons
+                - generic [ref=e316]:
+                  - img [ref=e319]
+                  - paragraph [ref=e321]: 11%
+              - img [ref=e324]
+        - generic [ref=e326]:
+          - heading "Biometrics & IoT Integrations" [level=4] [ref=e329]
+          - paragraph [ref=e333]: Easily manage attendance using fingerprints, facial recognition, and ID cards.
+        - generic [ref=e337]:
+          - generic [ref=e338]:
+            - heading "Seamless Payments" [level=4] [ref=e341]
+            - paragraph [ref=e344]: Validate employee KYCs with Fixa and process instant bulk payments to mobile wallets and bank accounts.
+          - list [ref=e347]:
+            - listitem [ref=e348]
+            - listitem [ref=e351]
+            - listitem [ref=e354]
+            - listitem [ref=e357]
+            - listitem [ref=e360]
+            - listitem [ref=e363]
+            - listitem [ref=e366]
+            - listitem [ref=e369]
+            - listitem [ref=e372]
+            - listitem [ref=e375]
+            - listitem [ref=e378]
+            - listitem [ref=e381]
+            - listitem [ref=e384]
+            - listitem [ref=e387]
+            - listitem [ref=e390]
+            - listitem [ref=e393]
+            - listitem [ref=e396]
+            - listitem [ref=e399]
+          - list [ref=e404]:
+            - listitem [ref=e405]
+            - listitem [ref=e408]
+            - listitem [ref=e411]
+            - listitem [ref=e414]
+            - listitem [ref=e417]
+            - listitem [ref=e420]
+            - listitem [ref=e423]
+            - listitem [ref=e426]
+            - listitem [ref=e429]
+            - listitem [ref=e432]
+            - listitem [ref=e435]
+            - listitem [ref=e438]
+            - listitem [ref=e441]
+            - listitem [ref=e444]
+            - listitem [ref=e447]
+            - listitem [ref=e450]
+            - listitem [ref=e453]
+            - listitem [ref=e456]
+          - list [ref=e461]:
+            - listitem [ref=e462]
+            - listitem [ref=e465]
+            - listitem [ref=e468]
+            - listitem [ref=e471]
+            - listitem [ref=e474]
+            - listitem [ref=e477]
+            - listitem [ref=e480]
+            - listitem [ref=e483]
+            - listitem [ref=e486]
+            - listitem [ref=e489]
+            - listitem [ref=e492]
+            - listitem [ref=e495]
+            - listitem [ref=e498]
+            - listitem [ref=e501]
+            - listitem [ref=e504]
+            - listitem [ref=e507]
+            - listitem [ref=e510]
+            - listitem [ref=e513]
+        - generic [ref=e516]:
+          - generic [ref=e517]:
+            - paragraph [ref=e520]: Offer financial services to your employees through Fixa, at no cost to you.
+            - heading "Financial Services" [level=4] [ref=e523]
+          - generic [ref=e524]:
+            - generic [ref=e525]:
+              - generic [ref=e526]:
+                - generic [ref=e527]:
+                  - img [ref=e533]
+                  - paragraph [ref=e536]: Earnings
+                - paragraph [ref=e538]: RWF 250,000
+              - img [ref=e541]
+            - generic [ref=e542]:
+              - generic [ref=e543]:
+                - generic [ref=e545]:
+                  - paragraph [ref=e547]: Wallet Balance
+                  - paragraph [ref=e549]: RWF 120,000
+                - generic [ref=e551]:
+                  - paragraph [ref=e553]: Withdrawals
+                  - paragraph [ref=e555]: "18"
+              - generic [ref=e556]:
+                - generic [ref=e558]:
+                  - paragraph [ref=e560]: Earned Wage Access Requested
+                  - paragraph [ref=e562]: "4"
+                - generic [ref=e564]:
+                  - paragraph [ref=e566]: Earned Wage Access Balance
+                  - paragraph [ref=e568]: RWF 120,000
+    - generic [ref=e576]:
+      - heading "Empower your workforce with Fixa’s Earned Wage Access." [level=2] [ref=e580]
+      - link "Book a Demo" [ref=e581] [cursor=pointer]:
+        - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+        - paragraph [ref=e583] [cursor=pointer]: Book a Demo
+    - generic [ref=e585]:
+      - generic [ref=e586]:
+        - heading "We’re building an ecosystem that enables financial institutions and insurers to empower blue-collar workers at scale" [level=2] [ref=e588]
+        - paragraph [ref=e590]: We are laying the foundation to enable workers to buy, borrow, save, and pay through Fixa.
+      - img [ref=e596]
+    - generic [ref=e634]:
+      - heading "Empowering over 15,000 workers" [level=2] [ref=e636]
+      - paragraph [ref=e638]: All employees on Fixa's platform have verifiable digital career identities, granting access to financial and healthcare benefits from our partners.
+    - generic [ref=e645]:
+      - heading "Real Stories" [level=2] [ref=e648]
+      - generic [ref=e651]:
+        - paragraph [ref=e656]: Maurice Nsabimana
+        - generic [ref=e657]:
+          - paragraph [ref=e659]: I remember the day I got the call—my family needed me urgently. This time, I didn’t have to scramble for cash. I accessed the funds immediately and was there when it mattered most.
+          - paragraph [ref=e661]: Jan 17, 2022
+      - generic [ref=e664]:
+        - paragraph [ref=e669]: Elizabeth Nizeyimana
+        - generic [ref=e670]:
+          - paragraph [ref=e672]: Two emergencies hit me at once—but instead of panicking, I felt relief. Knowing I had a safety net gave me the confidence to handle everything without scrambling for help.
+          - paragraph [ref=e674]: Aug 2, 2023
+      - generic [ref=e677]:
+        - paragraph [ref=e682]: Sylvester Hagenimana
+        - generic [ref=e683]:
+          - paragraph [ref=e685]: For the first time, I had consistent work and didn’t have to worry about late payments. It gave me the confidence to plan for my family’s future without feeling overwhelmed.
+          - paragraph [ref=e687]: Aug 20, 2023
+    - generic [ref=e694]:
+      - heading "Frequently Asked Questions" [level=2] [ref=e697]
+      - generic [ref=e701]:
+        - generic [ref=e705] [cursor=pointer]:
+          - heading "What is Fixa?" [level=5] [ref=e707] [cursor=pointer]
+          - img [ref=e711] [cursor=pointer]
+        - generic [ref=e717] [cursor=pointer]:
+          - heading "What industries does Fixa serve?" [level=5] [ref=e719] [cursor=pointer]
+          - img [ref=e723] [cursor=pointer]
+        - generic [ref=e729] [cursor=pointer]:
+          - heading "How does Fixa empower workers?" [level=5] [ref=e731] [cursor=pointer]
+          - img [ref=e735] [cursor=pointer]
+        - generic [ref=e741] [cursor=pointer]:
+          - heading "What payments does Fixa Support" [level=5] [ref=e743] [cursor=pointer]
+          - img [ref=e747] [cursor=pointer]
+        - generic [ref=e753] [cursor=pointer]:
+          - heading "What is Earned Wage Access (EWA) and how does it work at Fixa?" [level=5] [ref=e755] [cursor=pointer]
+          - img [ref=e759] [cursor=pointer]
+        - generic [ref=e765] [cursor=pointer]:
+          - heading "Is Fixa only for large businesses?" [level=5] [ref=e767] [cursor=pointer]
+          - img [ref=e771] [cursor=pointer]
+    - generic [ref=e775]:
+      - generic [ref=e776]:
+        - heading "Stay Updated" [level=2] [ref=e779]
+        - paragraph [ref=e781]: Explore how technology is transforming work across Africa. From product updates and worker stories to general company news, here’s what we’ve learned along the way.
+      - generic [ref=e782]:
+        - generic [ref=e783]:
+          - link "Purple Flower 6 min read Nov 11, 2024 Fixa joins the Visa Africa Fintech Accelerator!" [ref=e786] [cursor=pointer]:
+            - /url: ./blog/fixa-visa-africa-accelerator
+            - img "Purple Flower" [ref=e789] [cursor=pointer]
+            - generic [ref=e790] [cursor=pointer]:
+              - paragraph [ref=e792] [cursor=pointer]: 6 min read
+              - paragraph [ref=e794] [cursor=pointer]: Nov 11, 2024
+            - heading "Fixa joins the Visa Africa Fintech Accelerator!" [level=4] [ref=e797] [cursor=pointer]
+          - link "Francine 6 min read Jan 22, 2025 More Than Survival—Francine Is Thriving" [ref=e800] [cursor=pointer]:
+            - /url: ./blog/meet-francine
+            - img "Francine" [ref=e803] [cursor=pointer]
+            - generic [ref=e804] [cursor=pointer]:
+              - paragraph [ref=e806] [cursor=pointer]: 6 min read
+              - paragraph [ref=e808] [cursor=pointer]: Jan 22, 2025
+            - heading "More Than Survival—Francine Is Thriving" [level=4] [ref=e811] [cursor=pointer]
+          - link "Teal Flower 7 min read Aug 30, 2024 Elie’s Journey From Uncertainty to Empowerment with Fixa" [ref=e814] [cursor=pointer]:
+            - /url: ./blog/meet-elie
+            - img "Teal Flower" [ref=e817] [cursor=pointer]
+            - generic [ref=e818] [cursor=pointer]:
+              - paragraph [ref=e820] [cursor=pointer]: 7 min read
+              - paragraph [ref=e822] [cursor=pointer]: Aug 30, 2024
+            - heading "Elie’s Journey From Uncertainty to Empowerment with Fixa" [level=4] [ref=e825] [cursor=pointer]
+        - link "Read More" [ref=e828] [cursor=pointer]:
+          - /url: ./blog
+          - paragraph [ref=e830] [cursor=pointer]: Read More
+    - generic [ref=e832]:
+      - generic [ref=e833]:
+        - heading "Book a demo today and see Fixa in action" [level=2] [ref=e835]
+        - paragraph [ref=e837]: Our team is ready to visit your site and demonstrate how Fixa can help you empower your workforce from day one.
+      - link "Schedule a Demo" [ref=e840] [cursor=pointer]:
+        - /url: https://calendar.app.google/1cu3xuNSGFCGCoDB9
+        - paragraph [ref=e842] [cursor=pointer]: Schedule a Demo
+    - generic [ref=e846]:
+      - heading "Sign up to our Newletter." [level=2] [ref=e848]
+      - iframe [ref=e851]:
+        - generic [ref=f1e3]:
+          - generic [ref=f1e4]:
+            - generic [ref=f1e5]: Email
+            - textbox "Enter your email" [ref=f1e6]
+          - button "Subscribe" [ref=f1e8] [cursor=pointer]
+    - contentinfo [ref=e854]:
+      - generic [ref=e855]:
+        - heading "Fixa" [level=5] [ref=e860]
+        - generic [ref=e863]:
+          - paragraph [ref=e865]: Go to
+          - generic [ref=e866]:
+            - paragraph [ref=e868]:
+              - link "Home" [ref=e869] [cursor=pointer]:
+                - /url: ./#:WDAnpZfUY
+            - paragraph [ref=e871]:
+              - link "Blog" [ref=e872] [cursor=pointer]:
+                - /url: ./blog
+            - paragraph [ref=e874]:
+              - link "Contact" [ref=e875] [cursor=pointer]:
+                - /url: ./contact
+      - generic [ref=e876]:
+        - paragraph [ref=e878]: ©Fixa Limited 2025
+        - generic [ref=e879]:
+          - paragraph [ref=e881]:
+            - link "Privacy Policy" [ref=e882] [cursor=pointer]:
+              - /url: ./privacy-policy
+          - paragraph [ref=e884]:
+            - link "Terms & Conditions" [ref=e885] [cursor=pointer]:
+              - /url: ./terms-conditions
+    - img [ref=e889]
+  - img [ref=e890]
+  - img [ref=e891]
+  - img [ref=e892]
+  - img [ref=e894]
+  - img [ref=e896]
+  - img [ref=e898]
+  - img [ref=e900]
+  - img [ref=e902]
+  - img [ref=e904]
+  - img [ref=e971]
+  - img [ref=e973]
+  - img [ref=e974]
+  - img [ref=e975]
+  - img [ref=e976]
+  - img [ref=e978]
+  - img [ref=e980]
+  - img [ref=e981]
+  - img [ref=e984]
+  - iframe [ref=e985]:
+    - button "Chat widget" [ref=f2e4] [cursor=pointer]:
+      - img "Opens Chat This icon Opens the chat window." [ref=f2e7] [cursor=pointer]
+```
